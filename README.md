@@ -1,6 +1,6 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact" />
 
 
 <!-- ![Han's Github Status](https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status)
