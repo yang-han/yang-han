@@ -1,9 +1,13 @@
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status" /> -->
 
+ Han's Github Status             |  Han's Top Languages 
+--|--
+![Han's Github Status](https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&hide_title=true)  |  ![Han's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact&theme=default&hide_title=true)
 
-<!-- ![Han's Github Status](https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status)
+<!-- 
+![Han's Github Status](https://github-readme-stats.vercel.app/api?username=yang-han&show_icons=true&theme=default&custom_title=Han%27s%20Github%20Status)
 
 ![Han's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yang-han&layout=compact&theme=default)
  -->
